@@ -64,7 +64,12 @@ Estoy en constante búsqueda de **oportunidades desafiantes** donde pueda aplica
 ## 📈 Mi Actividad en GitHub
 
 <p align="center">
-    <img src="https://github.com/MaxiCantarino/MaxiCantarino/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation of contributions" />
+  <img src="https://github.com/MaxiCantarino/MaxiCantarino/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation of contributions" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxiCantarino&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de MaxiCantarino" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxiCantarino&theme=midnight-purple&hide_border=false" alt="Racha de contribuciones de GitHub de MaxiCantarino" />
 </p>
 
 ---
@@ -75,3 +80,4 @@ Estoy en constante búsqueda de **oportunidades desafiantes** donde pueda aplica
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cantarinoe@hotmail.com)
 
 ---
+
