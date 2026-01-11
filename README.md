@@ -61,10 +61,18 @@ Plataforma web para exploración y reserva de viajes, desarrollada con **front-e
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MaxiCantarino"
-    width="420"
+    src="https://raw.githubusercontent.com/MaxiCantarino/MaxiCantarino/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
   />
 </p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/dist/profile-trophy.svg?username=MaxiCantarino&theme=flat&row=1&margin-w=15"
+    alt="GitHub Trophies"
+  />
+</p>
+
 
 
 ## 📫 Contacto
