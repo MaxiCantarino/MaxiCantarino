@@ -30,7 +30,7 @@ Me interesa construir **soluciones funcionales y seguras**, aplicando buenas pr�
 
 ### 🔐 Ciberseguridad & Redes
 - Fundamentos OWASP  
-- Pentesting básico (nivel junior)  
+- Pentesting  
 - Linux · Kali Linux  
 - Nmap · Wireshark · Metasploit  
 - ISO/IEC 27001
